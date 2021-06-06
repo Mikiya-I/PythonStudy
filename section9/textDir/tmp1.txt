@@ -1,0 +1,4 @@
+inputted name is $name.
+your inputting word is $wordTmp?
+Then, input words or sentences.
+inputted word is $word. finish
