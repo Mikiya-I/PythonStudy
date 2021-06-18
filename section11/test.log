@@ -1,0 +1,10 @@
+CRITICAL:root:critical
+WARNING:root:warning
+ERROR:root:error
+INFO:root:info
+INFO:root:info test test2
+2021-06-17 13:35:45,772:CRITICAL:critical
+2021-06-17 13:35:45,772:WARNING:warning
+2021-06-17 13:35:45,772:ERROR:error
+2021-06-17 13:35:45,772:INFO:info
+2021-06-17 13:35:45,772:INFO:info test test2
