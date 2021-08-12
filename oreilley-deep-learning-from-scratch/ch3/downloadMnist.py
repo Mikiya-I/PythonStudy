@@ -1,5 +1,6 @@
 import numpy as np
-import sys, os
+import os
+import sys
 
 # 親ディレクトリのファイルをインポートするための設定
 sys.path.append(os.pardir)

@@ -1,14 +1,15 @@
 import numpy as np
-import sys, os
+import os
+import sys
 
 # 親ディレクトリのファイルをインポートするための設定
 sys.path.append(os.pardir)
 from dataset.mnist import load_mnist
-from pillow import Image
+from PIL import Image
 
 
 def img_show(image):
-    pil_img = Image.fromarray(np.unit8(image))
+    pil_img = Image.fromarray(np.uint8(image))
     pil_img.show()
 
 
@@ -21,7 +22,7 @@ label = yTrain[0]
 print(label)
 
 print(img.shape)
-img = img.rehape(28, 28)
+img = img.reshape(28, 28)
 print(img.shape)
 
 img_show(img)
