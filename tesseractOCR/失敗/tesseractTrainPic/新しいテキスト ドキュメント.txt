@@ -1,0 +1,1 @@
+tesseract eng.hand.exp1.png eng.hand.exp1 nobatch box.train.stderr
