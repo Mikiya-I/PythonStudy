@@ -1,0 +1,4 @@
+handWrittenSample:非考慮
+handWrittenSample2:手書き&加工無し
+handWrittenSample3Edit:領域切り取り
+BWhandWrittenSample3Edit:2値化
